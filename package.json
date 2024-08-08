@@ -1,5 +1,5 @@
 {
-  "name": "homework2FunctionForAddition",
+  "name": "hwfuforadd",
   "version": "1.0.0",
   "description": "addition",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IlnurGainutdinov/NodeHW2"
+    "url": "git+https://github.com/IlnurGainutdinov/NodeHW2.git"
   },
   "author": "IlnurGainutdinov",
   "license": "ISC"
